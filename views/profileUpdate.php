@@ -103,8 +103,8 @@ $biodata = $biodataRead->getAll();
 							<label class="col-xl-2 col-md-4 col-sm-3 mb-2" for="gender"><strong>Gender</strong></label>
 							<div class="col-xl-10 col-md-8 col-sm-9 mb-3">
 								<select class="form-select" id="gender" name="gender" aria-label="Default select example" required>
-									<option value="Laki-Laki" <?php if ($genderSelected === 'Laki-Laki') echo 'selected'; ?>>Laki-Laki</option>
-									<option value="Perempuan" <?php if ($genderSelected === 'Perempuan') echo 'selected'; ?>>Perempuan</option>
+									<option value="Male" <?php if ($genderSelected === 'Male') echo 'selected'; ?>>Male</option>
+									<option value="Female" <?php if ($genderSelected === 'Female') echo 'selected'; ?>>Female</option>
 								</select>
 							</div>
 							<hr />
