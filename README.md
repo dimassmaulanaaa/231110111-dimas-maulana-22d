@@ -1,6 +1,4 @@
 # MyBiodata Website
-- XAMPP v3.3.0
-- MySQL (MariaDB) v10.4.32
 - PHP v8.2.12
 - jQuery v3.7.1
 - Bootstrap v5.3.6  
